@@ -1,0 +1,8 @@
+n 128
+naive 1245
+h cutoff_size strassen_time
+3 8 3360
+4 16 1754
+5 32 1454
+6 64 1151
+7 128 1245
